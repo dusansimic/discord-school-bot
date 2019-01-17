@@ -1,0 +1,14 @@
+{
+  "name": "discord-school-bot",
+  "version": "0.0.1",
+  "description": "Simple school bot for discord to help me with getting info I most need for school.",
+  "main": "index.js",
+  "repository": "https://github.com/dusansimic/discord-school-bot",
+  "author": "Dušan Simić <dusan.simic1810@gmail.com> (dusansimic.me)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "googleapis": "27",
+    "moment": "^2.23.0"
+  }
+}
